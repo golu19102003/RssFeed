@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/bb9e6fa4-15c7-474e-b684-6df24c23c36e)
 ## RSS Feed Android Studio App (Java) – Detailed README Description
 **Overview**
 This Android app is a simple RSS feed reader built using Java in Android Studio. The app fetches RSS feed data from a specified URL, parses the XML content, and displays the latest news or blog items in a user-friendly interface. The project demonstrates the use of networking, XML parsing, and modern Android UI components.
